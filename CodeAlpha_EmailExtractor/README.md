@@ -156,7 +156,7 @@ You can easily extend this script by editing `email_extractor.ipynb`:
 
 **Hamza Sajjad**
 CodeAlpha Python Programming Intern
-[GitHub Profile](https://github.com/YOUR_USERNAME)
+[GitHub Profile](https://github.com/hope-cs)
 
 ---
 
