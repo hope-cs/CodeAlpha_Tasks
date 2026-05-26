@@ -80,8 +80,8 @@ CodeAlpha_Chatbot/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/hope-cs/CodeAlpha_Chatbot.git
-cd CodeAlpha_Chatbot
+git clone https://github.com/hope-cs/CodeAlpha_Tasks.git
+cd CodeAlpha_Tasks/CodeAlpha_Chatbot
 ```
 
 **2. Launch Jupyter Notebook**
