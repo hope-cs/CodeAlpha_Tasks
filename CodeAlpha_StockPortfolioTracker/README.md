@@ -155,7 +155,7 @@ You can easily extend this program by editing `stock_tracker.ipynb`:
 
 ## 👨‍💻 Author
 
-**Ali**
+**Hamza Sajjad**
 CodeAlpha Python Programming Intern
 [GitHub Profile](https://github.com/YOUR_USERNAME)
 
