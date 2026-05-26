@@ -63,7 +63,7 @@ CodeAlpha_StockPortfolioTracker/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_StockPortfolioTracker.git
+git clone https://github.com/hope-cs/CodeAlpha_StockPortfolioTracker.git
 cd CodeAlpha_StockPortfolioTracker
 ```
 
