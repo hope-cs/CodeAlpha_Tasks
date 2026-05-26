@@ -136,7 +136,7 @@ You can easily extend this game by editing `hangman.ipynb`:
 
 ## 👨‍💻 Author
 
-**Ali**
+**Hamza Sajjad**
 CodeAlpha Python Programming Intern
 [GitHub Profile](https://github.com/hope-cs)
 
