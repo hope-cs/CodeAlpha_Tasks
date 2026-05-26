@@ -63,8 +63,8 @@ CodeAlpha_StockPortfolioTracker/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/hope-cs/CodeAlpha_StockPortfolioTracker.git
-cd CodeAlpha_StockPortfolioTracker
+git clone https://github.com/hope-cs/CodeAlpha_Tasks.git
+cd CodeAlpha_Tasks/CodeAlpha_StockPortfolioTracker
 ```
 
 **2. Install dependencies**
