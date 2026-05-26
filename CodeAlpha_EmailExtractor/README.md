@@ -81,8 +81,8 @@ CodeAlpha_EmailExtractor/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_EmailExtractor.git
-cd CodeAlpha_EmailExtractor
+git clone https://github.com/hope-cs/CodeAlpha_Tasks.git
+cd CodeAlpha_Tasks/CodeAlpha_StockPortfolioTracker
 ```
 
 **2. Add your input file**
