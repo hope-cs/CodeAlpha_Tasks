@@ -135,7 +135,7 @@ You can easily extend PyBot by editing `chatbot.ipynb`:
 
 ## 👨‍💻 Author
 
-**Ali**
+**Hamza Sajjad**
 CodeAlpha Python Programming Intern
 [GitHub Profile](https://github.com/hope-cs)
 
