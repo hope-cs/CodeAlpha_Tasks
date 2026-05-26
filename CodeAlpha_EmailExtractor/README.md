@@ -154,7 +154,7 @@ You can easily extend this script by editing `email_extractor.ipynb`:
 
 ## 👨‍💻 Author
 
-**Ali**
+**Hamza Sajjad**
 CodeAlpha Python Programming Intern
 [GitHub Profile](https://github.com/YOUR_USERNAME)
 
