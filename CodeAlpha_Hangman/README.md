@@ -65,7 +65,7 @@ CodeAlpha_HangmanGame/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/CodeAlpha_HangmanGame.git
+git clone https://github.com/hope-cs/CodeAlpha_Hangman.git
 cd CodeAlpha_HangmanGame
 ```
 
@@ -138,7 +138,7 @@ You can easily extend this game by editing `hangman.ipynb`:
 
 **Ali**
 CodeAlpha Python Programming Intern
-[GitHub Profile](https://github.com/YOUR_USERNAME)
+[GitHub Profile](https://github.com/hope-cs)
 
 ---
 
