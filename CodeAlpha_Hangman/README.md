@@ -65,8 +65,8 @@ CodeAlpha_HangmanGame/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/hope-cs/CodeAlpha_Hangman.git
-cd CodeAlpha_Hangman
+git clone https://github.com/hope-cs/CodeAlpha_Tasks.git
+cd CodeAlpha_Tasks/CodeAlpha_Hangman
 ```
 
 **2. Install dependencies**
