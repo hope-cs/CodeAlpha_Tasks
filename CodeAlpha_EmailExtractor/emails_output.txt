@@ -1,0 +1,11 @@
+Extracted Emails — 9 found
+========================================
+business.dev@company.org
+hr.department@careers.io
+hr2024@jobs.com
+jane_smith@yahoo.com
+john.doe123@gmail.com
+manager_2024@enterprise.org
+sales_team@corp.net
+support@codealpha.tech
+urgent@response.tech

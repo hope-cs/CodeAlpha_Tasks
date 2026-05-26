@@ -1,0 +1,8 @@
+
+Hello team, please contact us at support@codealpha.tech for general queries.
+For business inquiries reach out to business.dev@company.org or sales_team@corp.net.
+You can also email john.doe123@gmail.com or jane_smith@yahoo.com.
+Our HR department is at hr.department@careers.io and hr2024@jobs.com.
+Invalid entries like @nouser, missingat.com and @@double.com will be ignored.
+For urgent matters contact urgent@response.tech or manager_2024@enterprise.org.
+Duplicate test: support@codealpha.tech and business.dev@company.org again.
